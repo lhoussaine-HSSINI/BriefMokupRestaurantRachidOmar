@@ -1,4 +1,5 @@
-# Team : Rachid NAIM and Omar BAABOUJ
+##### Team : Rachid NAIM and Omar BAABOUJ
+___________________________________________________
 
 ## We tried to make a mokuping of a restaurant website from scratch using Figma tool.
 
