@@ -1,3 +1,5 @@
+# Maquettage d'un siteweb pour une chaîne de restaurants
+---------------------------------------------------------
 ##### Team : Rachid NAIM and Omar BAABOUJ
 ___________________________________________________
 
