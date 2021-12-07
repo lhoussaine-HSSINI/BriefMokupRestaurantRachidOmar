@@ -3,7 +3,7 @@
 ##### Team : Rachid NAIM and Omar BAABOUJ
 ___________________________________________________
 
-## We tried to make a mokuping of a restaurant website from scratch using Figma tool.
+## We tried to make a moCkuping of a restaurant website from scratch using Figma.
 
 The website link : https://burgershop.templates.editmysite.com/
 
