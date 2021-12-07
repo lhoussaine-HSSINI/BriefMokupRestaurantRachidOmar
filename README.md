@@ -10,3 +10,8 @@ The website link : https://burgershop.templates.editmysite.com/
 ### 1st Day
 
 #### Desktop and Mobile Zoning
+
+### 3rd Day
+
+#### Desktop and Mobile Wireframe
+
