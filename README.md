@@ -18,4 +18,11 @@ The website link : https://burgershop.templates.editmysite.com/
 
 ### 5th Day
 
+#### Desktop Prototyping
+
 ![prototyping-gif](./Desktop-prototype-gif.gif)
+
+
+#### Mobile Prototyping
+
+![prototyping-gif](./Mobile-prototype-gif.gif)
