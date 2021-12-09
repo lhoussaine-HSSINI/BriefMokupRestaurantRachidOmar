@@ -20,6 +20,7 @@ The website link : https://burgershop.templates.editmysite.com/
 ### 5th Day
 - Final design file with website interactions
 - Diagram of passage between the pages
+- The graphic chart
 - Desktop and Mobile Prototyping
     - Desktop Prototyping
   
