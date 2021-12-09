@@ -14,7 +14,7 @@ The website link : https://burgershop.templates.editmysite.com/
 
 ### 3rd Day
 
-#### Desktop and Mobile Wireframe
+#### Desktop and Mobile Wireframing
 
 ### 5th Day
 
