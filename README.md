@@ -15,14 +15,14 @@ The website link : https://burgershop.templates.editmysite.com/
 
 ### 3rd Day
 
-#### Desktop and Mobile Wireframing
+- Desktop and Mobile Wireframing
 
 ### 5th Day
 
-#### Desktop Prototyping
+- Desktop Prototyping
 
 ![desktop-prototyping-gif](./Prototypes/Desktop.gif)
 
-#### Mobile Prototyping
+- Mobile Prototyping
 
 ![mobile-prototyping-gif](./Prototypes/Mobile.gif)
