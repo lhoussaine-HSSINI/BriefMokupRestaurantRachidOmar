@@ -18,13 +18,10 @@ The website link : https://burgershop.templates.editmysite.com/
 - Desktop and Mobile Wireframing
 
 ### 5th Day
-
+- Final design file with website interactions
+- Diagram of passage between the pages
 - Desktop and Mobile Prototyping
-
-Desktop Prototyping
-
-![desktop-prototyping-gif](./Prototypes/Desktop.gif)
-
-Mobile Prototyping
-
-![mobile-prototyping-gif](./Prototypes/Mobile.gif)
+    - Desktop Prototyping
+    ![desktop-prototyping-gif](./Prototypes/Desktop.gif)
+    - Mobile Prototyping
+    ![mobile-prototyping-gif](./Prototypes/Mobile.gif)
