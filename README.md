@@ -1,9 +1,10 @@
 # Maquettage d'un siteweb pour une chaîne de restaurants
 
 ##### Team : Rachid NAIM and Omar BAABOUJ
-___________________________________________________
 
-## We tried to make a moCkuping of a restaurant website from scratch using Figma.
+---
+
+## Mockuping a restaurant website from scratch using Figma.
 
 The website link : https://burgershop.templates.editmysite.com/
 
@@ -15,14 +16,12 @@ The website link : https://burgershop.templates.editmysite.com/
 
 #### Desktop and Mobile Wireframe
 
-
 ### 5th Day
 
 #### Desktop Prototyping
 
-![prototyping-gif](./Desktop-prototype-gif.gif)
-
+![desktop-prototyping-gif](./Prototypes/Desktop.gif)
 
 #### Mobile Prototyping
 
-![prototyping-gif](./Mobile-prototype-gif.gif)
+![mobile-prototyping-gif](./Prototypes/Mobile.gif)
